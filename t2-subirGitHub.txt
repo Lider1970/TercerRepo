@@ -2,3 +2,8 @@ Tema 1. Subir a GitHub (pildoras informaticas)
 
 1.--- git add .
 Usando el punto en lugar del nombre del archivo, addicionaremos todos los archivos existentes en esa carpeta.
+
+2.--- git commit --amend
+Si queremos modificar la decripción del actual commit (donde esta HEAD), esto se hace utilizando el editor interno VIM de git y para abrir ese editor usamos este comando.
+Al ejecutar, se mostrará una ventana, donde podemos modificar.
+Para modificar, escribimos dos puntos, después i, luego suprimir (el cursor se ubicará al inidico de la ventana), despues surimos todos lo queramos, luego damos escape, luego dos puntos, letra i, entre, después escribimos el texto correcto, después escape, y para cerrar el editor y guardar cambios escribimos dos puntos, w, q, enter, y saldra del editor.

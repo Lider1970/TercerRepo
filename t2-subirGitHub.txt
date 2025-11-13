@@ -1,0 +1,4 @@
+Tema 1. Subir a GitHub (pildoras informaticas)
+
+1.--- git add .
+Usando el punto en lugar del nombre del archivo, addicionaremos todos los archivos existentes en esa carpeta.
